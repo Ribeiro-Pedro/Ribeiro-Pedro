@@ -11,6 +11,14 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="PowerBI" height="30" width="25" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png?raw=true">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="PowerBI" height="40" width="30" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png?raw=true">
+  <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="SQL" height="40" width="40" src="https://github.com/Ribeiro-Pedro/Ribeiro-Pedro/blob/main/sql_icon.png?raw=true">
+</div>
+
+##
+
+<div>
+  <a href="www.linkedin.com/in/pedro-ribeiro257" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:pedro.rocha257@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
