@@ -25,6 +25,12 @@
 
  ## Projetos relevantes de portfólio
  
+ ### Dashboard de Preços de Ações
+ <img align="middle" alt="dashboard_preco_acoes" width="500" src="images/ss_dashboard.png"> 
+ Este projeto consiste em um dashboard que mostra os preços das ações da Apple, Microsoft, Amazon, Google e Meta desde 2019 até 2022, com visões diárias, mensais e anuais. O objetivo é apresentar de forma clara e intuitiva as informações de desempenho dessas empresas no mercado de ações ao longo dos anos.
+  
+ <a href="https://github.com/Ribeiro-Pedro/finnhub-api">Link do repositório</a>
+  
  ### Análise exploratória de dados Youtube consumindo API
   <img align="middle" alt="youtube logo" width="500" src="images/yt_logo.png">
   <p>Com o intuito de entender melhor o que faz um vídeo ter sucesso na plataforma foi feita uma análise entre os nove canais de data science mais populares do Youtube. Além disso, o projeto serviu como estudo para a obtenção de dados através do consumo da API do Youtube e para análise de dados com a utilização de Python.
