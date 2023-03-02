@@ -24,6 +24,12 @@
 </div>
 
  ## Projetos relevantes de portfólio
+  
+ ### Dashboard Web Analytics
+ <img align="middle" alt="screenshot dashboard web analytics" width="700" src="images/ss_dashboard_web.png">
+ <p>Esse projeto foi feito a partir dos dados do Google Analytics disponibilizados pelo Google, que foram persistidos no Google BigQuery utilizando SQL e posteriormente organizados visualmente utilizando Power BI. O objetivo desse Dashboard é ajudar as empresas a avaliar o desempenho de seus websites e identificar oportunidades de melhoria. Para isso, o Dashboard apresenta várias métricas importantes, como Bounce Rate, Exit Rate, Conversion Rate e Conversion Funnel.</p>
+ 
+ <a href="https://github.com/Ribeiro-Pedro/Dashboard_Web_Analytics">Link do repositório</a>
  
  ### Dashboard de Preços de Ações
  <img align="middle" alt="dashboard_preco_acoes" width="500" src="images/ss_dashboard.png"> 
