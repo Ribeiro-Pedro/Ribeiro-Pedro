@@ -24,7 +24,13 @@
 </div>
 
  ## Projetos relevantes de portfólio
-  
+
+ ### Análise Estatísticas Brasileirão 2023
+ <img align="middle" alt="screenshot dashboard web analytics" width="700" src="images/article_cover.jpg">
+ <p>O objetivo deste projeto de análise de dados é coletar informações estatísticas das equipes que disputam a Série A do Campeonato Brasileiro de Futebol Masculino. Para isso, utilizou-se técnicas de web scraping para extrair os dados relevantes do site FPREF, que contém estatísticas detalhadas sobre diversos aspectos do jogo. As informações coletadas abrangem estatísticas dos times, goleiros, finalizações, passes, chances de gol criadas, defesa, posse de bola e tempo de jogo. Com esses dados, pode-se realizar análises aprofundadas para entender o desempenho das equipes e identificar tendências e padrões ao longo da temporada.</p></p>
+ 
+ <a href="https://github.com/Ribeiro-Pedro/Estatisticas_Brasileirao">Link do repositório</a>
+
  ### Dashboard Web Analytics
  <img align="middle" alt="screenshot dashboard web analytics" width="700" src="images/ss_dashboard_web.png">
  <p>Esse projeto foi feito a partir dos dados do Google Analytics disponibilizados pelo Google, que foram persistidos no Google BigQuery utilizando SQL e posteriormente organizados visualmente utilizando Power BI. O objetivo desse Dashboard é ajudar as empresas a avaliar o desempenho de seus websites e identificar oportunidades de melhoria. Para isso, o Dashboard apresenta várias métricas importantes, como Bounce Rate, Exit Rate, Conversion Rate e Conversion Funnel.</p>
