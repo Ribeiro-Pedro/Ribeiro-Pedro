@@ -1,8 +1,8 @@
 ## Olá, eu sou o Pedro Ribeiro
 
-- 🔭 Atualmente trabalhando com projetos de análise de dados
-- 🌱 Hoje estou estudando SQL, Python e Power BI
-- 👯 Procurando uma oportunidade na área de dados
+- 🔭 Atualmente trabalhando como analista de negócios na área de Negócios Internacionais da Globo
+- 🌱 Hoje estou estudando principalmento SQL, Python para análise de dados e Machine Learning
+- 👯 Sempre aberto a novas oportunidades.
 
 <div align="center">
   <a href="https://github.com/Ribeiro-Pedro">
